@@ -1,0 +1,191 @@
+{
+  "project_info": {
+    "project_number": "415150274289",
+    "firebase_url": "https://vrcore-staging.firebaseio.com/",
+    "project_id": "vrcore-6845f",
+    "storage_bucket": "vrcore-6845f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415150274289:android:b3c4f219861f949d391b50",
+        "android_client_info": {
+          "package_name": "com.proworks.TMPlans002"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415150274289-5jul7bmnlbjoj4s7n6c8nmlub7a6pi95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD489nheoQV_OPuhsC9yDkuqe7wmiW-1R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415150274289-5jul7bmnlbjoj4s7n6c8nmlub7a6pi95.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "415150274289-35fhpv5gt3fuma6dpid2mqjhkt84dvlv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "proworks.com.proworkApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415150274289:android:d0734a07acab16f4391b50",
+        "android_client_info": {
+          "package_name": "com.vrcore.vr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415150274289-5jul7bmnlbjoj4s7n6c8nmlub7a6pi95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD489nheoQV_OPuhsC9yDkuqe7wmiW-1R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415150274289-5jul7bmnlbjoj4s7n6c8nmlub7a6pi95.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "415150274289-35fhpv5gt3fuma6dpid2mqjhkt84dvlv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "proworks.com.proworkApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415150274289:android:94837562bf1be05e391b50",
+        "android_client_info": {
+          "package_name": "proworks.com.prowork_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415150274289-5jul7bmnlbjoj4s7n6c8nmlub7a6pi95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD489nheoQV_OPuhsC9yDkuqe7wmiW-1R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415150274289-5jul7bmnlbjoj4s7n6c8nmlub7a6pi95.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "415150274289-35fhpv5gt3fuma6dpid2mqjhkt84dvlv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "proworks.com.proworkApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415150274289:android:f15ec424149757e9",
+        "android_client_info": {
+          "package_name": "virtualroadworks.com.vrcore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415150274289-5jul7bmnlbjoj4s7n6c8nmlub7a6pi95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD489nheoQV_OPuhsC9yDkuqe7wmiW-1R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415150274289-5jul7bmnlbjoj4s7n6c8nmlub7a6pi95.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "415150274289-35fhpv5gt3fuma6dpid2mqjhkt84dvlv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "proworks.com.proworkApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415150274289:android:5c08413eaf1e0e09",
+        "android_client_info": {
+          "package_name": "virtualroadworks.com.vrcorestaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415150274289-5jul7bmnlbjoj4s7n6c8nmlub7a6pi95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD489nheoQV_OPuhsC9yDkuqe7wmiW-1R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415150274289-5jul7bmnlbjoj4s7n6c8nmlub7a6pi95.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "415150274289-35fhpv5gt3fuma6dpid2mqjhkt84dvlv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "proworks.com.proworkApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
